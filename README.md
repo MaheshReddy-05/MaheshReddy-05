@@ -24,7 +24,7 @@ MERN | MySql | ML | JavaScript
 
 ### Contact
 
-<a href="https://www.linkedin.com/in/maheshreddybn/">
+<a href="https://www.linkedin.com/in/MaheshReddy05/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <!-- <a href="https://twitter.com/rukmini_meda">
