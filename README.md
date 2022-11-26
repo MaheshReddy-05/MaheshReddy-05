@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @MaheshReddy-05
-- 👀 I’m interested in Programming in Java
-- 🌱 I’m currently learning Machine Learning Algorithm's and implementing them on realtime data
+- 👀 I’m interested in Machine Learning to work with real data
+- 🌱 I’m currently practicing DSA in java language 
+- ### Work Experience 
+- 1 . Teaching Assistant At Coding Ninjas,  I had mentor more than 100 students
 <!-- - 💞️ I’m looking to collaborate on  -->
 <!-- - 📫 How to reach me ... -->
 
