@@ -5,11 +5,11 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maheshreddy-05" alt="maheshreddy-05" /></a> </p> -->
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about **Java, Data Structures and Algorithms, MySql, Node.js**
+- 💬 Ask me about **Java, Data Structures and Algorithms, MySql, React.js**
 
-- 📫 How to reach me **nagamaheshreddy6@gmail.com**
+- 📫 How to reach me **maheshreddy05bn@gmail.com**
 
 
 
