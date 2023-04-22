@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahesh Reddy B N</h1>
-<h3 align="center">I am a web developer with an amazing ability to develop websites that are both functional and aesthetically pleasing. I think you know my name already currently precuring my pre-final year at VIT Vellore'24</h3>
+<h3 align="center"> As a skilled web developer, I possess a remarkable talent for creating websites that seamlessly blend functionality with aesthetic appeal. Currently, I am pursuing my Bachelor of Technology degree in Computer Science and Engineering at VIT, Vellore '24</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maheshreddy-05&label=Profile%20views&color=0e75b6&style=flat" alt="maheshreddy-05" /> </p>
 
