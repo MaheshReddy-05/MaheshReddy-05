@@ -17,7 +17,7 @@
 
 <p align="center">
 <a href="https://github.com/MaheshReddy-05">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MaheshReddy-05&show_icons=true&theme=blue-green&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MaheshReddy-05&layout=compact&langs_count=8&theme=blue-green"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MaheshReddy-05&show_icons=true&theme=tokyonight&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MaheshReddy-05&layout=compact&langs_count=8&theme=tokyonight"/>
 </a>
 </p>
