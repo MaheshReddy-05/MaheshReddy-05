@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about **React.js, Docusaurus, Java, Data Structures and Algorithms, MySql**
+- 💬 Ask me about **React.js**
 
 - 📫 How to reach me **maheshreddy05bn@gmail.com**
 
